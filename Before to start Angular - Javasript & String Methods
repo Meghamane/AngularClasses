@@ -1,0 +1,42 @@
+https://www.w3schools.com/js/js_string_methods.asp
+
+https://www.w3schools.com/js/js_number_methods.asp
+
+https://www.w3schools.com/js/js_array_methods.asp
+
+https://www.w3schools.com/js/js_array_iteration.asp
+
+
+1. Summary
+  - Why Angular or Javascript
+    - Personal benefit
+      - Development efforts kami
+      - Dynamic HTML
+      - Faster rendering
+    - Trend
+      - React
+      - Vue
+    - Hybrid
+      - Mobile: cordova
+        - IOS
+        - Android
+        - Window
+        - Blackberry
+      - Desktop: Electron
+      - Web application
+      - Chrome extension
+
+
+https://codepen.io/yogeshjadhav/pens/tags
+
+10.X node version
+
+npm install
+
+https://ng-bootstrap.github.io/#/components/alert/examples
+
+ ng analytics off
+
++ @angular/cli@10.0.4
+added 280 packages from 206 contributors in 704.999s
+
